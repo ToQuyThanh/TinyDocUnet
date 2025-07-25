@@ -309,10 +309,4 @@ MIT License - See LICENSE file for details.
 ## 📞 Support
 
 For questions and issues:
-- GitHub Issues: [Create an issue](https://github.com/your-repo/issues)
-- Email: your.email@example.com
-- Documentation: [Wiki](https://github.com/your-repo/wiki)
-
----
-
-**Happy Training! 🚀**
+- Email: thanh.toquy@gmail.com
